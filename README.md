@@ -1,4 +1,4 @@
-# <b>Student's Portfolio</b>
+# <b>Ahareen</b>
 
 This Repository is basically a template repo for a interactive season on Open source by GDSC IIIT KALYANI 
 
